@@ -1,14 +1,14 @@
 # aplikasi_dongeng
 
-<img src="https://kelasrumahofficial.github.io/file/kelasrumah.png" style="width:100px;">
+<img src="https://kelasrumahofficial.github.io/file/kelasrumah.png" style="max-width:100px;!important">
 
 Aplikasi Dongeng Tidur menggunakan Youtube di App Inventor | Appybuilder | Thunkable - kelasrumah Tanpa Coding, sangat cocok untuk pemula dan cocok untuk dipelajari lebih lanjut tidak menggunakan coding, tanpa coding serta mudah digunakan dan dapat di jadikan pemasukan tambahan.
 
 KelasRumah (KRSAN) sebuah Portal Edukasi untuk belajar TIK dengan cara sederhana dan menyenangkan secara mandiri serta informasi trik dan tips terkini terupdate mengenai TIK untuk kita semua.
 
-Butuh Jasa Website, Hosting atau Kerjasama Pengembangan Aplikasi :)
-Kontak Kami di :
-Blog : https://www.kelasrumah.com/
+Butuh Jasa Website, Hosting atau Kerjasama Pengembangan Aplikasi :)<br>
+Kontak Kami di :<br>
+Blog : https://www.kelasrumah.com/<br>
 Email Bisnis : kelasrumahofficial@gmail.com
 
 Jangan lupa Subcribe/Langganan Channel untuk menumbuhkan tutorial selanjutnya.
